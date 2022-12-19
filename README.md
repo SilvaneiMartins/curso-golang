@@ -3,6 +3,8 @@
 
 <h1 align="center">
     <a href="https://imgur.com/Gy8sCsf"><img src="https://i.imgur.com/Gy8sCsf.png" title="source: imgur.com" /></a>
+    <br />
+    <a href="https://imgur.com/Te6ls7D"><img src="https://i.imgur.com/Te6ls7D.png" title="source: imgur.com" /></a>
 </h1>
 
 ## Informação do projeto
